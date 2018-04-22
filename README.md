@@ -1,3 +1,11 @@
+This is the standard "Create React Native App".
+
+Step by step instructions for installation on MAC OS including links to some useful videos provided soon in installation.README.
+
+These describe how to install and run the code on Android and iOS simulators, and then how to migrate them to those devices.  
+
+Sample screenshots in .png file(s).
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
