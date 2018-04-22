@@ -4,7 +4,7 @@ Step by step instructions for installation on MAC OS including links to some use
 
 These describe how to install and run the code on Android and iOS simulators, and then how to migrate them to those devices.  
 
-Sample screenshots in .png file(s).
+Sample screenshots in .png file(s). Not obvious in the screenshot, but the colors fade from one to another - this is the Animated component and Animated.View references in the code App.js file. 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
