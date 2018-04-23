@@ -1,4 +1,4 @@
-This is the standard "Create React Native App".
+This is the standard "Create React Native App" - beginning at paragraph 4
 
 Step by step instructions for installation on MAC OS including links to some useful videos provided soon in installation.README.
 

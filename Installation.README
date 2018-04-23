@@ -1,0 +1,36 @@
+# Installation Procedure for Tools to Develop a  React Native on MAC OS                           
+### as of April 2018 - procedures and versions may change 
+
+## using create-react-native-app, react-native, XCode (for iOS simulation) and Android Studio (for an Android simulator)
+
+in the Terminal:
+
+* verify a recent version of Node is installed - if not, install the latest
+``` node --version 
+
+* verify npm (node package manager) is availabe
+``` npm  
+
+* use npm to install create-react-native app 
+``` npm install -g create-react-native-app
+
+The React Native Getting Started page, (https://facebook.github.io/react-native/docs/getting-started.html)
+also referenced in the main README, has useful installation guidelines for MAC OS, Windows, and Linux under the 
+"Building Projects with Native Code" tab.
+
+Install XCode, latest version currently 9.3
+
+Install Android Studio and simulator.  
+
+Especially the Android installation procedures were vague, these youtube LevelUp Tutorials were very useful: 
+
+https://www.youtube.com/watch?v=3Pm5_Cf7pQI&list=PLLnpHn493BHG30qU2Rw403x6w7XP8hHB5&index=2&pbjreload=10
+
+https://www.youtube.com/watch?v=3Pm5_Cf7pQI&list=PLLnpHn493BHG30qU2Rw403x6w7XP8hHB5&index=2&pbjreload=10
+
+From the React Native for Everyone Series by Scott Tolinski, a total of about 18 minutes.  
+Particularly for Android, the level of detail is helpful - the installation is time-consuming, large pieces to download, 
+and getting it right the first time will save time. 
+
+
+
